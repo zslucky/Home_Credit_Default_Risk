@@ -1,0 +1,6 @@
+# ignoe
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+
+data/dataset/*
